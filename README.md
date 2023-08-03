@@ -1,7 +1,7 @@
 ## Project Title:
  Predicting Profits using Multiple Linear Regression
 
-##Project Description
+## Project Description
 This project focuses on predicting profits for a company based on various factors using a multiple linear regression model. By analyzing the provided dataset containing information on R&D Spend, Administration, Marketing Spend, and State, we aim to understand how these variables affect the company's profitability. This repository showcases the entire process, from data exploration and analysis to building and evaluating the predictive model.
 
 ## Dataset Overview
