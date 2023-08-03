@@ -7,7 +7,7 @@ This project focuses on predicting profits for a company based on various factor
 ## Dataset Overview
 The dataset consists of samples with features like R&D Spend, Administration, Marketing Spend, and State. Each sample also includes the corresponding Profit value. The goal is to create a model that can accurately predict the Profit based on these features.
 
-[DataSet]()
+[DataSet](https://github.com/Bytecode-Magnum/Predicting-Company-Profits-Multiple_Linear_Regression/blob/main/profit_predication_data.csv)
 
 ## Key Steps
 ### Data Exploration: 
@@ -24,4 +24,6 @@ Utilizing the insights gained from the data analysis, we proceeded to build a mu
 
 ### Model Evaluation: 
 To assess the model's performance, we used metrics like Mean Squared Error (MSE) and R-squared. These metrics provide a quantitative measure of how well the model fits the data and its predictive capabilities.
+
+[Model](https://github.com/Bytecode-Magnum/Predicting-Company-Profits-Multiple_Linear_Regression/blob/main/Profit_Prediction.ipynb)
 
